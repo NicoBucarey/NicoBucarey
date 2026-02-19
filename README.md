@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hola 👋 Soy Nicolas Bucarey
 
-<!--
-**NicoBucarey/NicoBucarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico Universitario en Desarrollo Web – UNCo  
+💻 Desarrollador de Aplicaciones Web   
+📍 Neuquén, Argentina  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy desarrollador web con experiencia en la creación de aplicaciones full stack.
+Trabajo principalmente con React en el front-end y Node.js + Express en el back-end, utilizando PostgreSQL como base de datos.
+
+Actualmente estoy buscando mi primera experiencia profesional en el área.
+
+---
+
+## 🛠 Stack Principal
+
+- React
+- JavaScript
+- Node.js
+- Express
+- PostgreSQL
+
+## 🧩 Experiencia adicional
+
+- PHP
+- Laravel
+- MySQL
+
+
+---
+
+## 📌 Proyectos Destacados
+
+- Sistema de gestión para profesionales de la salud  
+- E-commerce con React  
+- API REST con autenticación JWT  
+
+---
+
+## 📫 Contacto
+
+- Portfolio: portafolio-bucareynicolas.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/nico-bucarey/
